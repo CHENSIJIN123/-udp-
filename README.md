@@ -11,7 +11,6 @@ sh build.sh
 
 效果：
 [chensj@localhost udp]$ ./udp
-
 server_ip :  172.16.31.134
 server_port :12345
 db_ip :      mongodb://172.16.31.134:27018/
