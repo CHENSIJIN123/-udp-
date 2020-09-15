@@ -11,6 +11,7 @@ sh build.sh
 
 效果：
 [chensj@localhost udp]$ ./udp
+
 server_ip :  172.16.31.134
 server_port :12345
 db_ip :      mongodb://172.16.31.134:27018/
@@ -31,6 +32,7 @@ rlm_nosql : Attempting to connect #3
 rlm_nosql : Connected new NOSQL handle,#3
 rlm_nosql : Attempting to connect #4
 rlm_nosql : Connected new NOSQL handle,#4
+
 
 客户端编译：
 gcc c.c -o client 
