@@ -11,7 +11,7 @@ sh build.sh
 
 
 客户端编译：
-gcc c.c -o client 
+gcc client.c -o client 
 
 客户端启动：
 ./client
